@@ -5,4 +5,8 @@ create a repo in the github
 then clone the repo
 git clone git@github.com:deepufrk/streamlit-app.git
 #########################
+git status
+git add .
+git status
+git commit -m "Add Streamlit app files"
 
